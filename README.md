@@ -1,2 +1,3 @@
-# notion-calendar-app
-notion calendar service
+# Notion Calendar App
+This is a notion calendar service.
+
